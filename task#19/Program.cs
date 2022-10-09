@@ -29,7 +29,7 @@
         Console.WriteLine(" ---> является Палиндромом");
     else
     {
-        Console.WriteLine("Введенное число НЕ является ПАЛИНДРОМОМ, так как индексы NULL THIRD не равны и индексы FIRST ≠ FORTH не равны также.");
+        Console.WriteLine("НЕ является ПАЛИНДРОМОМ, так как индексы NULL THIRD не равны и индексы FIRST FORTH не равны также.");
         return;
     }
     
