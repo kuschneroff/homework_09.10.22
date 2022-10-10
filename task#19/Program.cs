@@ -28,7 +28,7 @@
     else
     {
         Console.WriteLine("НЕ является ПАЛИНДРОМОМ, так как индексы NULL THIRD не равны и индексы FIRST FORTH не равны также.");
-        return;
+        return;}
     }
     }
     
