@@ -6,7 +6,7 @@
 23432 -> да */
 
 
-    Console.WriteLine($"Введите пятизначное число");
+    Console.WriteLine("Введите пятизначное число");
     int number = int.Parse(Console.ReadLine() ??"");
     Console.WriteLine();
     {
